@@ -15,6 +15,7 @@ public class MouseClicker extends JFrame{
         new MouseClicker();
     }
     
+    //This gets the sound file
     public MouseClicker(){
         this.setSize(400,400);
         this.setTitle("Mouse Clicker");
